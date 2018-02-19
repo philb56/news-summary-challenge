@@ -1,0 +1,19 @@
+#fail {
+  color: silver;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow:
+     4px 4px 1px #300000,
+      4px 6px 1px #400000
+}
+
+#success {
+  color: rgb(0, 255, 0);
+  font-size: 25px;
+}
+
+div {
+  border: 1px solid black;
+}
+
+}
